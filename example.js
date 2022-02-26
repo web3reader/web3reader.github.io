@@ -373,6 +373,7 @@ async function onReadStory() {
 	} else {
 	    document.querySelector("#btn-new-chapter").style.display = "none";
 	}
+
 	
     } catch(e) {
 	console.log("cannot read story", e);
