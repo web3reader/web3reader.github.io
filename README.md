@@ -1,6 +1,6 @@
 # web3reader.github.io
 
-My frist MFT project, deployed on Matic Mainnet.
+My frist NFT project, deployed on Matic Mainnet.
 
 Webpage hosted by github: https://web3reader.github.io/
 
